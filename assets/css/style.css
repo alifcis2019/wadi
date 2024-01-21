@@ -32,6 +32,10 @@ body {
     }
 }
 
+.language_dropdown_menu {
+    left: -100px !important;
+}
+
 /* hero sectio */
 
 .hero {
